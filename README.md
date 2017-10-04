@@ -1,4 +1,3 @@
 # exercise-repo
-Hello
-Hi all!
+new branch
 
