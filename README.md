@@ -1,4 +1,4 @@
 # exercise-repo
 Hello
-Hi all!
+Hi from master
 
